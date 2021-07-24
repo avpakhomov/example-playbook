@@ -2,5 +2,5 @@
   - src: https://github.com/netology-code/mnt-homeworks-ansible
     scm: git
     version: "1.0.1"
-    name: java 
+    name: mnt-homeworks-ansible 
     key_file: ./secret
